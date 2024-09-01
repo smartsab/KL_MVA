@@ -1,0 +1,10 @@
+streamlit
+pandas
+cufflinks
+plotly
+google-auth
+gspread
+seaborn
+matplotlib
+scikit-learn
+numpy
